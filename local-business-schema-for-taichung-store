@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ClothingStore",
+  "image": [
+    "https://fs2.my-bras.com/upload/ftp/00.Web/12.Other/store-01.jpg"
+    ],
+    "@id": "https://www.my-bras.com/",
+  "name": "myBRA內衣品牌店｜台中勤美旗艦店",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "中興街175號",
+    "addressLocality": "西區",
+    "addressRegion": "台中市",
+    "postalCode": "40350",
+    "addressCountry": "TW"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.1498454,
+    "longitude": 120.6606974
+  },
+  "priceRange": "$$",
+  "url": "https://www.my-bras.com/",
+  "telephone": "+886423010965",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "opens": "13:00",
+      "closes": "21:00"
+    },
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "13:00",
+    "closes": "22:00"
+   }
+  ]
+}
+</script>
